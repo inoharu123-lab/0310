@@ -13,7 +13,7 @@
 <body>
     <div class="profile">
         <h1>こんにちは！私は はるかです</h1>
-        <img src="[https://example.com/myphoto.jpg](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6XGT5Hz9MpAiyfTHlBczavuUjyTBza9zWdzYmoifglj0p1lsylcTEScnpSa-Youh7YXw-ssgO-mMQmw-DBz4NeesioQPTe8beOH_QS-A4JMnfZAGP-01gxPQrS-pPEnrnJxbdVnWguhCC/s1600/pose_pien_uruuru_woman.png)" alt="プロフィール写真">
+        <img src="https://illustrationfree.up.seesaa.net/image/sakana_01_1.png" alt="プロフィール写真">
         <p>趣味：旅行など</p>
         <p>スキル：簿記など</p>
         <p>目標：自分のWebサイトを作ってポートフォリオとして公開すること</p>
