@@ -13,6 +13,7 @@
 <body>
     <div class="profile">
         <h1>こんにちは！私は はるかです</h1>
+        <img src="https://example.com/myphoto.jpg" alt="プロフィール写真">
         <p>趣味：旅行など</p>
         <p>スキル：簿記など</p>
         <p>目標：自分のWebサイトを作ってポートフォリオとして公開すること</p>
